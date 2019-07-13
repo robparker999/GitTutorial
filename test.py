@@ -1,3 +1,5 @@
 print ("hello")
 print ("test")
 print ("hi")
+name = input("enter name")
+print (name)
